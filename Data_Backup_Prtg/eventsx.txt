@@ -1,0 +1,155 @@
+1603446055,3,{76311B99-4E13-4874-A85F-492579AB5586},Error Notification: UP
+1603446055,3,{0712D717-73B0-40D3-81AA-F93398BF755A},Error Notification: UP
+1603446053,3,{EC60F01D-239C-4074-B5E7-86FC1E162839},Error Notification: UP
+1603446051,3,{140680C0-2664-4990-AE00-91CF40128398},Error Notification: UP
+1603446048,3,{F0E78BB9-9263-434D-84EE-35613C2207EF},Error Notification: UP
+1603446048,3,{5D4D9016-A6B5-4A19-91BD-4036C089EBD7},Error Notification: UP
+1603446048,3,{99A5E7C7-C546-4D8E-BFC0-241B5A458C26},Error Notification: UP
+1603446045,3,{9E284B71-F0B4-413A-82B5-DB42E9EFB970},Error Notification: UP
+1603446038,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: UP
+1603446034,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: UP
+1603446033,3,{BF0767EB-7E8C-4097-9677-A7BD03C674D0},Error Notification: UP
+1603446033,3,{D9805AAA-F97B-4C7F-A429-1FC91C8CF5F9},Error Notification: UP
+1603446033,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: UP
+1603446032,3,{63D6434C-218A-4160-B848-7011F86EDCA3},Error Notification: UP
+1603446032,3,{881ED535-F831-45C4-9DA8-2FA96954DB60},Error Notification: UP
+1603445898,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445894,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445893,3,{D9805AAA-F97B-4C7F-A429-1FC91C8CF5F9},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445892,3,{881ED535-F831-45C4-9DA8-2FA96954DB60},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445888,3,{BF0767EB-7E8C-4097-9677-A7BD03C674D0},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445888,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445887,3,{63D6434C-218A-4160-B848-7011F86EDCA3},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445885,3,{76311B99-4E13-4874-A85F-492579AB5586},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445885,3,{0712D717-73B0-40D3-81AA-F93398BF755A},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445883,3,{EC60F01D-239C-4074-B5E7-86FC1E162839},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445881,3,{140680C0-2664-4990-AE00-91CF40128398},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445879,3,{5D4D9016-A6B5-4A19-91BD-4036C089EBD7},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445879,3,{99A5E7C7-C546-4D8E-BFC0-241B5A458C26},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445878,3,{F0E78BB9-9263-434D-84EE-35613C2207EF},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603445875,3,{9E284B71-F0B4-413A-82B5-DB42E9EFB970},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603308938,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: UP
+1603308913,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603214368,3,{BF0767EB-7E8C-4097-9677-A7BD03C674D0},Error Notification: UP
+1603214368,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: UP
+1603214363,3,{EC60F01D-239C-4074-B5E7-86FC1E162839},Error Notification: UP
+1603214362,3,{140680C0-2664-4990-AE00-91CF40128398},Error Notification: UP
+1603214358,3,{5D4D9016-A6B5-4A19-91BD-4036C089EBD7},Error Notification: UP
+1603214358,3,{99A5E7C7-C546-4D8E-BFC0-241B5A458C26},Error Notification: UP
+1603214355,3,{9E284B71-F0B4-413A-82B5-DB42E9EFB970},Error Notification: UP
+1603214353,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: UP
+1603214341,3,{140680C0-2664-4990-AE00-91CF40128398},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603214341,3,{5D4D9016-A6B5-4A19-91BD-4036C089EBD7},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603214341,3,{F0E78BB9-9263-434D-84EE-35613C2207EF},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603214341,3,{99A5E7C7-C546-4D8E-BFC0-241B5A458C26},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603214341,3,{9E284B71-F0B4-413A-82B5-DB42E9EFB970},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1603214323,3,{881ED535-F831-45C4-9DA8-2FA96954DB60},Error Notification: DOWN, Failure in sendto
+1603214323,3,{BF0767EB-7E8C-4097-9677-A7BD03C674D0},Error Notification: DOWN, Failure in sendto
+1603214323,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: DOWN, Failure in sendto
+1603214323,3,{D9805AAA-F97B-4C7F-A429-1FC91C8CF5F9},Error Notification: DOWN, Failure in sendto
+1603214323,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: DOWN, Failure in sendto
+1603214323,3,{63D6434C-218A-4160-B848-7011F86EDCA3},Error Notification: DOWN, Failure in sendto
+1603214323,3,{0712D717-73B0-40D3-81AA-F93398BF755A},Error Notification: DOWN, Failure in sendto
+1603214322,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: DOWN, Failure in sendto
+1603214313,3,{76311B99-4E13-4874-A85F-492579AB5586},Error Notification: DOWN, Failure in sendto
+1603214303,3,{EC60F01D-239C-4074-B5E7-86FC1E162839},Error Notification: DOWN, Failure in sendto
+1603022968,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: UP
+1603022943,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602795334,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: UP
+1602795309,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602708308,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: UP
+1602708283,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602701087,3,{881ED535-F831-45C4-9DA8-2FA96954DB60},Error Notification: UP
+1602701063,3,{881ED535-F831-45C4-9DA8-2FA96954DB60},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602695668,3,{9E284B71-F0B4-413A-82B5-DB42E9EFB970},Error Notification: UP
+1602695663,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: UP
+1602695661,3,{99A5E7C7-C546-4D8E-BFC0-241B5A458C26},Error Notification: UP
+1602695661,3,{EC60F01D-239C-4074-B5E7-86FC1E162839},Error Notification: UP
+1602695660,3,{5D4D9016-A6B5-4A19-91BD-4036C089EBD7},Error Notification: UP
+1602695657,3,{881ED535-F831-45C4-9DA8-2FA96954DB60},Error Notification: UP
+1602695657,3,{140680C0-2664-4990-AE00-91CF40128398},Error Notification: UP
+1602695657,3,{BF0767EB-7E8C-4097-9677-A7BD03C674D0},Error Notification: UP
+1602695650,3,{76311B99-4E13-4874-A85F-492579AB5586},Error Notification: UP
+1602695648,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: UP
+1602695648,3,{0712D717-73B0-40D3-81AA-F93398BF755A},Error Notification: UP
+1602695647,3,{F0E78BB9-9263-434D-84EE-35613C2207EF},Error Notification: UP
+1602695647,3,{63D6434C-218A-4160-B848-7011F86EDCA3},Error Notification: UP
+1602695647,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: UP
+1602695646,3,{D9805AAA-F97B-4C7F-A429-1FC91C8CF5F9},Error Notification: UP
+1602695643,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602695641,3,{5D4D9016-A6B5-4A19-91BD-4036C089EBD7},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602695641,3,{99A5E7C7-C546-4D8E-BFC0-241B5A458C26},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602695641,3,{EC60F01D-239C-4074-B5E7-86FC1E162839},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602695639,3,{881ED535-F831-45C4-9DA8-2FA96954DB60},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602695637,3,{BF0767EB-7E8C-4097-9677-A7BD03C674D0},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602695637,3,{140680C0-2664-4990-AE00-91CF40128398},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602695624,3,{F0E78BB9-9263-434D-84EE-35613C2207EF},Error Notification: DOWN, Failure in sendto
+1602695624,3,{0712D717-73B0-40D3-81AA-F93398BF755A},Error Notification: DOWN, Failure in sendto
+1602695623,3,{9E284B71-F0B4-413A-82B5-DB42E9EFB970},Error Notification: DOWN, Failure in sendto
+1602695623,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: DOWN, Failure in sendto
+1602695623,3,{63D6434C-218A-4160-B848-7011F86EDCA3},Error Notification: DOWN, Failure in sendto
+1602695622,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: DOWN, Failure in sendto
+1602695622,3,{76311B99-4E13-4874-A85F-492579AB5586},Error Notification: DOWN, Failure in sendto
+1602695618,3,{D9805AAA-F97B-4C7F-A429-1FC91C8CF5F9},Error Notification: DOWN, Failure in sendto
+1602615293,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: UP
+1602615267,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577673,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: UP
+1602577670,3,{5D4D9016-A6B5-4A19-91BD-4036C089EBD7},Error Notification: UP
+1602577670,3,{99A5E7C7-C546-4D8E-BFC0-241B5A458C26},Error Notification: UP
+1602577670,3,{EC60F01D-239C-4074-B5E7-86FC1E162839},Error Notification: UP
+1602577668,3,{881ED535-F831-45C4-9DA8-2FA96954DB60},Error Notification: UP
+1602577666,3,{140680C0-2664-4990-AE00-91CF40128398},Error Notification: UP
+1602577666,3,{BF0767EB-7E8C-4097-9677-A7BD03C674D0},Error Notification: UP
+1602577661,3,{76311B99-4E13-4874-A85F-492579AB5586},Error Notification: UP
+1602577658,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: UP
+1602577657,3,{0712D717-73B0-40D3-81AA-F93398BF755A},Error Notification: UP
+1602577657,3,{63D6434C-218A-4160-B848-7011F86EDCA3},Error Notification: UP
+1602577656,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: UP
+1602577655,3,{D9805AAA-F97B-4C7F-A429-1FC91C8CF5F9},Error Notification: UP
+1602577653,3,{9E284B71-F0B4-413A-82B5-DB42E9EFB970},Error Notification: UP
+1602577652,3,{F0E78BB9-9263-434D-84EE-35613C2207EF},Error Notification: UP
+1602577521,3,{76311B99-4E13-4874-A85F-492579AB5586},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577519,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577517,3,{0712D717-73B0-40D3-81AA-F93398BF755A},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577516,3,{63D6434C-218A-4160-B848-7011F86EDCA3},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577512,3,{F0E78BB9-9263-434D-84EE-35613C2207EF},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577512,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577510,3,{D9805AAA-F97B-4C7F-A429-1FC91C8CF5F9},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577507,3,{9E284B71-F0B4-413A-82B5-DB42E9EFB970},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577502,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577501,3,{5D4D9016-A6B5-4A19-91BD-4036C089EBD7},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577500,3,{99A5E7C7-C546-4D8E-BFC0-241B5A458C26},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577500,3,{EC60F01D-239C-4074-B5E7-86FC1E162839},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577497,3,{881ED535-F831-45C4-9DA8-2FA96954DB60},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577497,3,{140680C0-2664-4990-AE00-91CF40128398},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602577497,3,{BF0767EB-7E8C-4097-9677-A7BD03C674D0},Error Notification: DOWN, No response (check: firewalls, routing, snmp settings of device, IPs, SNMP version, community, passwords etc)
+1602498233,3,{881ED535-F831-45C4-9DA8-2FA96954DB60},Error Notification: UP
+1602498233,3,{9E284B71-F0B4-413A-82B5-DB42E9EFB970},Error Notification: UP
+1602498233,3,{63D6434C-218A-4160-B848-7011F86EDCA3},Error Notification: UP
+1602498233,3,{F0E78BB9-9263-434D-84EE-35613C2207EF},Error Notification: UP
+1602498233,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: UP
+1602498233,3,{D9805AAA-F97B-4C7F-A429-1FC91C8CF5F9},Error Notification: UP
+1602498233,3,{0712D717-73B0-40D3-81AA-F93398BF755A},Error Notification: UP
+1602498233,3,{140680C0-2664-4990-AE00-91CF40128398},Error Notification: UP
+1602498232,3,{BF0767EB-7E8C-4097-9677-A7BD03C674D0},Error Notification: UP
+1602498232,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: UP
+1602498232,3,{5D4D9016-A6B5-4A19-91BD-4036C089EBD7},Error Notification: UP
+1602498232,3,{99A5E7C7-C546-4D8E-BFC0-241B5A458C26},Error Notification: UP
+1602498232,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: UP
+1602498232,3,{EC60F01D-239C-4074-B5E7-86FC1E162839},Error Notification: UP
+1602498229,3,{76311B99-4E13-4874-A85F-492579AB5586},Error Notification: UP
+1602498200,3,{76311B99-4E13-4874-A85F-492579AB5586},Error Notification: DOWN, Failure in sendto
+1602498200,3,{6819C82E-414D-4F85-ABF4-614DE31F3B61},Error Notification: DOWN, Failure in sendto
+1602498200,3,{EC60F01D-239C-4074-B5E7-86FC1E162839},Error Notification: DOWN, Failure in sendto
+1602498200,3,{63D6434C-218A-4160-B848-7011F86EDCA3},Error Notification: DOWN, Failure in sendto
+1602498200,3,{9E284B71-F0B4-413A-82B5-DB42E9EFB970},Error Notification: DOWN, Failure in sendto
+1602498200,3,{F0E78BB9-9263-434D-84EE-35613C2207EF},Error Notification: DOWN, Failure in sendto
+1602498200,3,{99A5E7C7-C546-4D8E-BFC0-241B5A458C26},Error Notification: DOWN, Failure in sendto
+1602498200,3,{BF0767EB-7E8C-4097-9677-A7BD03C674D0},Error Notification: DOWN, Failure in sendto
+1602498200,3,{5D4D9016-A6B5-4A19-91BD-4036C089EBD7},Error Notification: DOWN, Failure in sendto
+1602498200,3,{D9805AAA-F97B-4C7F-A429-1FC91C8CF5F9},Error Notification: DOWN, Failure in sendto
+1602498200,3,{140680C0-2664-4990-AE00-91CF40128398},Error Notification: DOWN, Failure in sendto
+1602498200,3,{B22EA68E-4285-4A8C-A0E6-9C7F22D644E3},Error Notification: DOWN, Failure in sendto
+1602498200,3,{881ED535-F831-45C4-9DA8-2FA96954DB60},Error Notification: DOWN, Failure in sendto
+1602498200,3,{5FDA846D-9CED-4BD7-BF44-1B19C62121DC},Error Notification: DOWN, Failure in sendto
+1602492960,3,{0712D717-73B0-40D3-81AA-F93398BF755A},Error Notification: DOWN, Failure in sendto
